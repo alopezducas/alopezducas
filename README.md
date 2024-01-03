@@ -1,12 +1,14 @@
-Hola! 🥰 Soy Abril Lopez Ducas, y te invito a mi mundo 🗺
+¡Hola! 🥰 Soy Abril Lopez Ducas, y te invito a mi mundo de diseño 🗺
 
  <hr>
+
+👩‍💻 Soy Técnica en Desarrollo Web, actualmente estudiando Diseño Gráfico y Digital en la Universidad Nacional de La Matanza
 
 🌱 Aprendiendo Illustrator, evolucionando con HTML y CSS
 
 💬 Hablemos de diseño gráfico y diseño IU / UX
 
-🗣 Siempre lista para aprender algo nuevo
+🗣 Siempre lista para aprender algo nuevo y evolucionar tanto personal como laboralmente
 
  <hr>
 
