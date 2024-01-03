@@ -14,7 +14,7 @@
 
 Encontrame en mis redes:
 
-<img src="https://seeklogo.com/images/B/behance-icon-logo-E2F066C7C9-seeklogo.com.png" alt="https://www.behance.net/abrillopezducas" width="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/abril-lopez-ducas-a20271211/" width="50">  <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="https://www.instagram.com/abril.lopzducas/" width="50">
+<a href="https://www.behance.net/abrillopezducas"> <img src="https://seeklogo.com/images/B/behance-icon-logo-E2F066C7C9-seeklogo.com.png" alt="https://www.behance.net/abrillopezducas" width="50"> </a> <a href="https://www.linkedin.com/in/abril-lopez-ducas-a20271211/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/abril-lopez-ducas-a20271211/" width="50"> </a> <a href="https://www.instagram.com/abril.lopzducas/"> <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="https://www.instagram.com/abril.lopzducas/" width="50"> </a>
 
 Herramientas y Lenguajes:
 
