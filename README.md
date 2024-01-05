@@ -1,4 +1,4 @@
-¡Hola! 🥰 Soy Abril Lopez Ducas, y te invito a mi mundo de diseño 🗺
+¡Hola! 🎀 Soy Abril Lopez Ducas, y te invito a mi mundo de diseño 🗺
 
  <hr>
 
