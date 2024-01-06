@@ -20,9 +20,12 @@ Herramientas y Lenguajes:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="css3" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="50"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript" height="50"> <img src="https://wiki.cifprodolfoucha.es/images/8/8e/Mysql_logo.png" alt="mysql" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/CorelDraw_Logo.png" alt="corel" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" height="50"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Illustrator-Logo.png" alt="illustrator" height="50">
 
+
  <hr>
 
-Hi! 🎀 I'm Abril lopez Ducas, and I invite you to my world of design 🗺
+
+
+Hi! 🎀 I'm Abril lopez Ducas, and I welcome you to my world of design 🗺
 
  <hr>
 
