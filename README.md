@@ -6,6 +6,8 @@
 
 🌱 Aprendiendo Illustrator, evolucionando con HTML y CSS
 
+‼ Mirá mi portfolio: https://abrilopezducas.netlify.app/
+
 💬 Hablemos de diseño gráfico y diseño IU / UX
 
 🗣 Siempre lista para aprender algo nuevo y evolucionar tanto personal como laboralmente
@@ -32,6 +34,8 @@ Hi! 🎀 I'm Abril lopez Ducas, and I welcome you to my world of design 🗺
 👩‍💻 I'm a Web Developer, now studying Graphic Design in Universidad Nacional de La Matanza 
 
 🌱 Learning Illustrator, evolving in HTML and CSS
+
+‼ Take a look at my portfolio: https://abrilopezducas.netlify.app/
 
 💬 Let's talk about about graphic design and IU / UX design
 
