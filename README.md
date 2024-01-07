@@ -6,7 +6,7 @@
 
 🌱 Aprendiendo Illustrator, evolucionando con HTML y CSS
 
-‼ Mirá mi portfolio: https://abrilopezducas.netlify.app/
+🌟 Mirá mi portfolio: https://abrilopezducas.netlify.app/
 
 💬 Hablemos de diseño gráfico y diseño IU / UX
 
@@ -35,7 +35,7 @@ Hi! 🎀 I'm Abril lopez Ducas, and I welcome you to my world of design 🗺
 
 🌱 Learning Illustrator, evolving in HTML and CSS
 
-‼ Take a look at my portfolio: https://abrilopezducas.netlify.app/
+🌟 Take a look at my portfolio: https://abrilopezducas.netlify.app/
 
 💬 Let's talk about about graphic design and IU / UX design
 
