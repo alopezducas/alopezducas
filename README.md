@@ -2,11 +2,11 @@
 
  <hr>
 
-👩‍💻 Soy Técnica en Desarrollo Web, actualmente estudiando Diseño Gráfico y Digital en la Universidad Nacional de La Matanza
+👩‍💻 Soy Técnica en Desarrollo Web y Técnica en Diseño Gráfico y Digital, recibida en la Universidad Nacional de La Matanza
 
-🌱 Aprendiendo Illustrator, evolucionando con HTML y CSS
+🌱 Evolucionando con HTML y CSS, con ganas de aprender nuevos lenguajes de programación
 
-🌟 Mirá mi portfolio: https://abrilopezducas.netlify.app/
+🌟 Mirá mi portfolio: https://www.behance.net/abrillopezducas
 
 💬 Hablemos de diseño gráfico y diseño IU / UX
 
